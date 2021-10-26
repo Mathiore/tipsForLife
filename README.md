@@ -54,6 +54,8 @@ https://feathericons.com/
 
 https://onepagelove.com/?fbclid=IwAR2exsRLuAuSV9aIb_zAeOKn6QFpS-gAXhp8jXnt0cbINDH-fAANruxNO1Y
 
+https://www.awwwards.com/?fbclid=IwAR3c-ONrEh-K5IC9haT2bfrYxZ1xuXtF4NRfHZQXVLgM1CYbusKOdfN2lhg
+
 // EMPREGOS REMOTOS //
 
 https://www.workingnomads.co/jobs
