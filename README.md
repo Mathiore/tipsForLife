@@ -1,4 +1,4 @@
-# tipsForLife
+# WebDevelopment Hacks
 
 // BIBLIOTECAS JS - EFEITOS ANIMAÇÕES ETC //
 
