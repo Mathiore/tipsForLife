@@ -18,6 +18,8 @@ https://threejs.org/
 
 // GERADOR DE CÓDIGO - STYLES //
 
+https://html-css-js.com/css/generator/box-shadow/
+
 https://shapedividers.com/?fbclid=IwAR3__9PmizZQyJO5WTkNdzHTC3Cj5UXKqM3ax1juNLQrMEfI2l3SIIrNImQ
 
 https://couleur.io/?fbclid=IwAR1XmX4AuLzsU5xTx_1b6Fpfra76JKN5Fo_8yLQyntKVEu7XfVZV_ioXZwQ
