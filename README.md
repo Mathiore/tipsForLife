@@ -16,7 +16,7 @@ https://apexcharts.com/react-chart-demos/area-charts/
 
 https://threejs.org/
 
-/////////////////////////////////////////////
+---------------------------------------------------
 
 // GERADOR DE CÓDIGO - STYLES //
 
@@ -28,7 +28,7 @@ https://couleur.io/?fbclid=IwAR1XmX4AuLzsU5xTx_1b6Fpfra76JKN5Fo_8yLQyntKVEu7XfVZ
 
 https://naevner.com/?fbclid=IwAR3TknhLqzf7JumnDdPjIWIqsNisbGeYXIHU6XRPoWgT8RMl22q59IuXRBk
 
-/////////////////////////////////////////////
+---------------------------------------------------
 
 // ILUSTRAÇÕES //
 
@@ -50,7 +50,7 @@ https://icons8.com.br/illustrations?fbclid=IwAR070Nba5ZWv7QczeYYTxrDXniZpXYDhukE
 
 https://www.pixeltrue.com/free-illustrations?fbclid=IwAR0-krwAmjICBo73lzrX5j-VLAnrXR2yTDFua49h9RFwx_KL4x7eio1uXeE
 
-/////////////////////////////////////////////
+---------------------------------------------------
 
 // ICONES WEB //
 
@@ -60,7 +60,7 @@ https://akveo.github.io/eva-icons/#/
 
 https://feathericons.com/
 
-/////////////////////////////////////////////
+---------------------------------------------------
 
 // SITES PARA CRIATIVIDADE //
 
@@ -68,7 +68,7 @@ https://onepagelove.com/?fbclid=IwAR2exsRLuAuSV9aIb_zAeOKn6QFpS-gAXhp8jXnt0cbIND
 
 https://www.awwwards.com/?fbclid=IwAR3c-ONrEh-K5IC9haT2bfrYxZ1xuXtF4NRfHZQXVLgM1CYbusKOdfN2lhg
 
-/////////////////////////////////////////////
+---------------------------------------------------
 
 // EMPREGOS REMOTOS //
 
@@ -84,4 +84,4 @@ https://remoteok.io/
 
 https://flatworld.co/jobs/
 
-/////////////////////////////////////////////
+---------------------------------------------------
