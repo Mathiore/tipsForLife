@@ -18,7 +18,7 @@ https://threejs.org/
 
 ---------------------------------------------------
 
-// GERADOR DE CÓDIGO - STYLES //
+// STYLES //
 
 https://html-css-js.com/css/generator/box-shadow/
 
@@ -68,20 +68,3 @@ https://onepagelove.com/?fbclid=IwAR2exsRLuAuSV9aIb_zAeOKn6QFpS-gAXhp8jXnt0cbIND
 
 https://www.awwwards.com/?fbclid=IwAR3c-ONrEh-K5IC9haT2bfrYxZ1xuXtF4NRfHZQXVLgM1CYbusKOdfN2lhg
 
----------------------------------------------------
-
-// EMPREGOS REMOTOS //
-
-https://www.workingnomads.co/jobs
-
-https://hired.com/
-
-https://bergamot.io/
-
-https://justremote.co/
-
-https://remoteok.io/
-
-https://flatworld.co/jobs/
-
----------------------------------------------------
